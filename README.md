@@ -1,2 +1,2 @@
-# cyberworld
-CyberWorld landing site.
+# CyberWorld
+General CyberWorld resources.
